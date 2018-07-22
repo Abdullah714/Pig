@@ -14,6 +14,8 @@ The first player to score 100 or more points wins.
 * JAVASCRIPT
 * JQUERY
 
+#### Live Link: https://abdullah714.github.io/Pig-Dice/
+
 ### Author
 
 Created By: Mohamed Abdullahi Elmoge.
